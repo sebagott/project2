@@ -1,0 +1,597 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"chann",
+				"channels_L"
+			],
+			[
+				"regis",
+				"registration_invalid"
+			],
+			[
+				"review",
+				"review_count"
+			],
+			[
+				"auth",
+				"author_id"
+			],
+			[
+				"margi",
+				"margin-left\tproperty"
+			],
+			[
+				"margin-",
+				"margin-left\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"ava",
+				"avatar_id"
+			],
+			[
+				"avat",
+				"avatars"
+			],
+			[
+				"fet",
+				"fetchone"
+			],
+			[
+				"get",
+				"get_GRbook_rating"
+			],
+			[
+				"grbo",
+				"grbook_rating"
+			],
+			[
+				"grb",
+				"grbook_count"
+			],
+			[
+				"gr",
+				"grbook_count"
+			],
+			[
+				"P",
+				"POST"
+			],
+			[
+				"fec",
+				"fetchone"
+			],
+			[
+				"book",
+				"book_id"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"authors",
+				"authors_match"
+			],
+			[
+				"impo",
+				"import_book_ratings"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"metho",
+				"methods"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"margn",
+				"margin-left\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"lgo",
+				"logout"
+			],
+			[
+				"log",
+				"logout_user"
+			],
+			[
+				"font-st",
+				"font-style\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"met",
+				"method"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"re",
+				"render_template"
+			],
+			[
+				"pa",
+				"pwd_match"
+			],
+			[
+				"avatar",
+				"avatar_id"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"alig",
+				"align-self\tproperty"
+			],
+			[
+				"align-",
+				"align-items\tproperty"
+			],
+			[
+				"tabl",
+				"table\tdisplay"
+			],
+			[
+				"table-c",
+				"table-cell\tdisplay"
+			],
+			[
+				"exp",
+				"semi-expanded\tfont-stretch"
+			],
+			[
+				"inl",
+				"inline\tdisplay"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"inlin",
+				"inline\tdisplay"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"con",
+				"justify-content-around"
+			],
+			[
+				"a",
+				"dashed\tborder"
+			],
+			[
+				"h",
+				"h2\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "application.py",
+			"settings":
+			{
+				"buffer_size": 1402,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "templates/index.html",
+			"settings":
+			{
+				"buffer_size": 758,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "static/index.js",
+			"settings":
+			{
+				"buffer_size": 4164,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/SebaGO/GitHub/project1/application.py",
+			"settings":
+			{
+				"buffer_size": 7811,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/SebaGO/GitHub/project2/application.py",
+		"/C/Users/SebaGO/GitHub/project2/static/index.js",
+		"/C/Users/SebaGO/WebCourse/src5/currency/templates/index.html",
+		"/C/Users/SebaGO/WebCourse/src5/vote0/static/index.js",
+		"/C/Users/SebaGO/WebCourse/src5/tasks2.html",
+		"/C/Users/SebaGO/WebCourse/src5/counter3.js",
+		"/C/Users/SebaGO/WebCourse/src5/currency/application.py",
+		"/C/Users/SebaGO/WebCourse/src5/counter0.html",
+		"/C/Users/SebaGO/WebCourse/src5/currency/static/index.js",
+		"/C/Users/SebaGO/WebCourse/src5/counter3.html",
+		"/C/Users/SebaGO/WebCourse/src5/colors2.html",
+		"/C/Users/SebaGO/WebCourse/src5/query.html",
+		"/C/Users/SebaGO/WebCourse/src5/tasks0.html",
+		"/C/Users/SebaGO/WebCourse/src5/storage.html",
+		"/C/Users/SebaGO/WebCourse/src5/interval.html",
+		"/C/Users/SebaGO/WebCourse/src5/vote1/application.py",
+		"/C/Users/SebaGO/WebCourse/src5/vote1/static/index.js",
+		"/C/Users/SebaGO/WebCourse/src5/events.html",
+		"/C/Users/SebaGO/WebCourse/src5/colors3.html",
+		"/C/Users/SebaGO/WebCourse/src5/vote0/application.py",
+		"/C/Users/SebaGO/GitHub/project1/application.py",
+		"/C/Users/SebaGO/GitHub/sebagott/create.sql",
+		"/C/Users/SebaGO/GitHub/sebagott/README.md",
+		"/C/Users/SebaGO/GitHub/project1/import.py",
+		"/C/Users/SebaGO/GitHub/project1/templates/index.html",
+		"/C/Users/SebaGO/GitHub/project1/README.md",
+		"/C/Users/SebaGO/GitHub/project1/create.sql",
+		"/C/Users/SebaGO/GitHub/project1/templates/home.html",
+		"/C/Users/SebaGO/GitHub/project1/static/styles.css",
+		"/C/Users/SebaGO/GitHub/project0/README.md",
+		"/C/Users/SebaGO/GitHub/project1/templates/base.html",
+		"/C/Users/SebaGO/GitHub/project1/goodreads.py",
+		"/C/Users/SebaGO/GitHub/project1/templates/register.html",
+		"/C/Users/SebaGO/GitHub/project1/templates/book.html",
+		"/C/Users/SebaGO/GitHub/project1/templates/logged_base.html",
+		"/C/Users/SebaGO/GitHub/project1/templates/error.html",
+		"/C/Users/SebaGO/GitHub/project0/personalized.scss",
+		"/C/Users/SebaGO/WebCourse/src3/airline1/application.py",
+		"/C/Users/SebaGO/WebCourse/src2/macros/application.py",
+		"/C/Users/SebaGO/WebCourse/src2/urls/application.py",
+		"/C/Users/SebaGO/GitHub/project1/templates/profile.html",
+		"/C/Users/SebaGO/WebCourse/src3/airline1/templates/flight.html",
+		"/C/Users/SebaGO/WebCourse/src3/joins.sql",
+		"/C/Users/SebaGO/WebCourse/src3/notes/application.py",
+		"/C/Users/SebaGO/GitHub/project0/index.html",
+		"/C/Users/SebaGO/WebCourse/src2/forms/application.py",
+		"/C/Users/SebaGO/WebCourse/src3/notes/templates/index.html",
+		"/C/Users/SebaGO/WebCourse/src3/list.py",
+		"/C/Users/SebaGO/GitHub/project1/utils.py.py",
+		"/C/Users/SebaGO/WebCourse/src3/index.sql",
+		"/C/Users/SebaGO/WebCourse/src3/clauses.sql",
+		"/C/Users/SebaGO/WebCourse/src3/update.sql",
+		"/C/Users/SebaGO/WebCourse/src3/select.sql",
+		"/C/Users/SebaGO/WebCourse/src3/insert.sql",
+		"/C/Users/SebaGO/GitHub/project0/contact.html",
+		"/C/Users/SebaGO/GitHub/project0/professional.html",
+		"/C/Users/SebaGO/WebCourse/src1/inheritance/inheritance.html",
+		"/C/Users/SebaGO/WebCourse/src1/inheritance/inheritance.scss",
+		"/C/Users/SebaGO/GitHub/project0/personalized.css",
+		"/C/Users/SebaGO/GitHub/project0/interests.html",
+		"/C/Users/SebaGO/WebCourse/src1/responsive0.html",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/personalized.scss",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/contact.html",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/professional.html",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/index.html",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/interests.html",
+		"/C/Users/SebaGO/WebCourse/src1/columns0.html",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/personalized.css",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/personalized.scss.css",
+		"/C/Users/SebaGO/WebCourse/src1/responsive1.html",
+		"/C/Users/SebaGO/GitHub/webcourse01/project0/project0/personal.css",
+		"/C/Users/SebaGO/WebCourse/project0/project0/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 101.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Goodreads",
+			"justify",
+			"row",
+			"print",
+			"result",
+			"wheat"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"**Goodreads**",
+			"book"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "application.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1402,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								556,
+								556
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 162.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "templates/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 758,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								708,
+								708
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "static/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 594.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/SebaGO/GitHub/project1/application.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7811,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								36,
+								43
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1458.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "application.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"gallery"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 254.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
